@@ -1,0 +1,5 @@
+{
+  "name": "AI Calorie Calculator",
+  "description": "An intelligent calorie calculator that provides daily calorie estimates, weight management guidelines, and personalized advice powered by Gemini. Users can save their profile and track their calculation history.",
+  "requestFramePermissions": []
+}
